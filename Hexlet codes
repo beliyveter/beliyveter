@@ -1,3 +1,4 @@
+#взять с 5 по 16 символы, обработать .strip() и вывести длинну полученной подстроки
 text = 'When \t\n you play a \t\n game of thrones you win or you die.'
 
 # BEGIN (write your solution here)
